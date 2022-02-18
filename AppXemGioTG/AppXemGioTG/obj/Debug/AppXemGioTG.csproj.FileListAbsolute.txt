@@ -1,0 +1,12 @@
+F:\C#\AppXemGioTG\AppXemGioTG\bin\Debug\AppXemGioTG.exe
+F:\C#\AppXemGioTG\AppXemGioTG\bin\Debug\AppXemGioTG.pdb
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.csprojAssemblyReference.cache
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.Form1.resources
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.Properties.Resources.resources
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.csproj.GenerateResource.cache
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.csproj.CoreCompileInputs.cache
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.exe
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.pdb
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.Form2.resources
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.Form3.resources
+F:\C#\AppXemGioTG\AppXemGioTG\obj\Debug\AppXemGioTG.Form4.resources

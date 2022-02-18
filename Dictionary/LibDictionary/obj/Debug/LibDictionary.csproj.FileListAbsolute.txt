@@ -1,0 +1,4 @@
+d:\my documents\visual studio 2013\Projects\Dictionary\LibDictionary\bin\Debug\LibDictionary.dll
+d:\my documents\visual studio 2013\Projects\Dictionary\LibDictionary\bin\Debug\LibDictionary.pdb
+d:\my documents\visual studio 2013\Projects\Dictionary\LibDictionary\obj\Debug\LibDictionary.dll
+d:\my documents\visual studio 2013\Projects\Dictionary\LibDictionary\obj\Debug\LibDictionary.pdb

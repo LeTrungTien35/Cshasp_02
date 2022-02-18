@@ -1,0 +1,7 @@
+d:\my documents\visual studio 2013\Projects\Dictionary\ConsoleDictionary\bin\Debug\ConsoleDictionary.exe
+d:\my documents\visual studio 2013\Projects\Dictionary\ConsoleDictionary\bin\Debug\ConsoleDictionary.pdb
+d:\my documents\visual studio 2013\Projects\Dictionary\ConsoleDictionary\bin\Debug\LibDictionary.dll
+d:\my documents\visual studio 2013\Projects\Dictionary\ConsoleDictionary\bin\Debug\LibDictionary.pdb
+d:\my documents\visual studio 2013\Projects\Dictionary\ConsoleDictionary\obj\Debug\ConsoleDictionary.csprojResolveAssemblyReference.cache
+d:\my documents\visual studio 2013\Projects\Dictionary\ConsoleDictionary\obj\Debug\ConsoleDictionary.exe
+d:\my documents\visual studio 2013\Projects\Dictionary\ConsoleDictionary\obj\Debug\ConsoleDictionary.pdb

@@ -1,0 +1,9 @@
+F:\C#\ChuyenNN\ChuyenNN\bin\Debug\ChuyenNN.exe
+F:\C#\ChuyenNN\ChuyenNN\bin\Debug\ChuyenNN.pdb
+F:\C#\ChuyenNN\ChuyenNN\obj\Debug\ChuyenNN.csprojAssemblyReference.cache
+F:\C#\ChuyenNN\ChuyenNN\obj\Debug\ChuyenNN.Form1.resources
+F:\C#\ChuyenNN\ChuyenNN\obj\Debug\ChuyenNN.Properties.Resources.resources
+F:\C#\ChuyenNN\ChuyenNN\obj\Debug\ChuyenNN.csproj.GenerateResource.cache
+F:\C#\ChuyenNN\ChuyenNN\obj\Debug\ChuyenNN.csproj.CoreCompileInputs.cache
+F:\C#\ChuyenNN\ChuyenNN\obj\Debug\ChuyenNN.exe
+F:\C#\ChuyenNN\ChuyenNN\obj\Debug\ChuyenNN.pdb

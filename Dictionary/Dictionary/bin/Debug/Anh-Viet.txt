@@ -1,0 +1,7 @@
+hello:xin chào
+happy:Hạnh phúc
+hi:chào của dân tộc Kinh
+student:Sinh viên
+love: yêu
+no star where: không sao đâu
+

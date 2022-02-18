@@ -1,0 +1,5 @@
+d:\my documents\visual studio 2013\Projects\54kmt_gui\LibDB\bin\Debug\LibDB.dll
+d:\my documents\visual studio 2013\Projects\54kmt_gui\LibDB\bin\Debug\LibDB.pdb
+d:\my documents\visual studio 2013\Projects\54kmt_gui\LibDB\obj\Debug\LibDB.dll
+d:\my documents\visual studio 2013\Projects\54kmt_gui\LibDB\obj\Debug\LibDB.pdb
+d:\my documents\visual studio 2013\Projects\54kmt_gui\LibDB\obj\Debug\LibDB.csprojResolveAssemblyReference.cache

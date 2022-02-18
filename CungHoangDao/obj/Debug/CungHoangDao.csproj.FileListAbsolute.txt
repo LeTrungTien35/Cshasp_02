@@ -1,0 +1,6 @@
+F:\C#\CungHoangDao\bin\Debug\CungHoangDao.exe
+F:\C#\CungHoangDao\bin\Debug\CungHoangDao.pdb
+F:\C#\CungHoangDao\obj\Debug\CungHoangDao.csprojAssemblyReference.cache
+F:\C#\CungHoangDao\obj\Debug\CungHoangDao.csproj.CoreCompileInputs.cache
+F:\C#\CungHoangDao\obj\Debug\CungHoangDao.exe
+F:\C#\CungHoangDao\obj\Debug\CungHoangDao.pdb

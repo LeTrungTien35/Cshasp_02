@@ -1,0 +1,22 @@
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\bin\Debug\SV-KMT.exe
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\bin\Debug\SV-KMT.pdb
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\bin\Debug\LibDB.dll
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\bin\Debug\LibDB.pdb
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.csprojResolveAssemblyReference.cache
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.frmMain.resources
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.Properties.Resources.resources
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.csproj.GenerateResource.Cache
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\obj\Debug\SV-KMT.exe
+d:\my documents\visual studio 2013\Projects\54kmt_gui\SV-KMT\obj\Debug\SV-KMT.pdb
+F:\C#\54kmt_gui\SV-KMT\bin\Debug\SV-KMT.exe
+F:\C#\54kmt_gui\SV-KMT\bin\Debug\SV-KMT.pdb
+F:\C#\54kmt_gui\SV-KMT\bin\Debug\LibDB.dll
+F:\C#\54kmt_gui\SV-KMT\bin\Debug\LibDB.pdb
+F:\C#\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.csprojAssemblyReference.cache
+F:\C#\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.frmMain.resources
+F:\C#\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.Properties.Resources.resources
+F:\C#\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.csproj.GenerateResource.cache
+F:\C#\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.csproj.CoreCompileInputs.cache
+F:\C#\54kmt_gui\SV-KMT\obj\Debug\SV_KMT.csproj.CopyComplete
+F:\C#\54kmt_gui\SV-KMT\obj\Debug\SV-KMT.exe
+F:\C#\54kmt_gui\SV-KMT\obj\Debug\SV-KMT.pdb
