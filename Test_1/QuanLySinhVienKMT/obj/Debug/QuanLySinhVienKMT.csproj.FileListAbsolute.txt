@@ -1,0 +1,9 @@
+F:\C#\QuanLySinhVienKMT\bin\Debug\QuanLySinhVienKMT.exe
+F:\C#\QuanLySinhVienKMT\bin\Debug\QuanLySinhVienKMT.pdb
+F:\C#\QuanLySinhVienKMT\obj\Debug\QuanLySinhVienKMT.csprojAssemblyReference.cache
+F:\C#\QuanLySinhVienKMT\obj\Debug\QuanLySinhVienKMT.Properties.Resources.resources
+F:\C#\QuanLySinhVienKMT\obj\Debug\QuanLySinhVienKMT.csproj.GenerateResource.cache
+F:\C#\QuanLySinhVienKMT\obj\Debug\QuanLySinhVienKMT.csproj.CoreCompileInputs.cache
+F:\C#\QuanLySinhVienKMT\obj\Debug\QuanLySinhVienKMT.exe
+F:\C#\QuanLySinhVienKMT\obj\Debug\QuanLySinhVienKMT.pdb
+F:\C#\QuanLySinhVienKMT\obj\Debug\QuanLySinhVienKMT.frmMain.resources

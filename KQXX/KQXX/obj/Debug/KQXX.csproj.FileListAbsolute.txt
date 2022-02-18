@@ -1,0 +1,9 @@
+F:\C#\KQXX\KQXX\bin\Debug\KQXX.exe
+F:\C#\KQXX\KQXX\bin\Debug\KQXX.pdb
+F:\C#\KQXX\KQXX\obj\Debug\KQXX.csprojAssemblyReference.cache
+F:\C#\KQXX\KQXX\obj\Debug\KQXX.Form1.resources
+F:\C#\KQXX\KQXX\obj\Debug\KQXX.Properties.Resources.resources
+F:\C#\KQXX\KQXX\obj\Debug\KQXX.csproj.GenerateResource.cache
+F:\C#\KQXX\KQXX\obj\Debug\KQXX.csproj.CoreCompileInputs.cache
+F:\C#\KQXX\KQXX\obj\Debug\KQXX.exe
+F:\C#\KQXX\KQXX\obj\Debug\KQXX.pdb

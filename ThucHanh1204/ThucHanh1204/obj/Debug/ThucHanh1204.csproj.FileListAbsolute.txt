@@ -1,0 +1,10 @@
+F:\C#\ThucHanh1204\ThucHanh1204\bin\Debug\ThucHanh1204.exe
+F:\C#\ThucHanh1204\ThucHanh1204\bin\Debug\ThucHanh1204.pdb
+F:\C#\ThucHanh1204\ThucHanh1204\obj\Debug\ThucHanh1204.csprojAssemblyReference.cache
+F:\C#\ThucHanh1204\ThucHanh1204\obj\Debug\ThucHanh1204.Form1.resources
+F:\C#\ThucHanh1204\ThucHanh1204\obj\Debug\ThucHanh1204.Properties.Resources.resources
+F:\C#\ThucHanh1204\ThucHanh1204\obj\Debug\ThucHanh1204.csproj.GenerateResource.cache
+F:\C#\ThucHanh1204\ThucHanh1204\obj\Debug\ThucHanh1204.csproj.CoreCompileInputs.cache
+F:\C#\ThucHanh1204\ThucHanh1204\obj\Debug\ThucHanh1204.exe
+F:\C#\ThucHanh1204\ThucHanh1204\obj\Debug\ThucHanh1204.pdb
+F:\C#\ThucHanh1204\ThucHanh1204\obj\Debug\ThucHanh1204.Form2.resources

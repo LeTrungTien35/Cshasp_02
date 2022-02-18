@@ -1,0 +1,9 @@
+F:\C#\TuongTacCSDL\bin\Debug\TuongTacCSDL.exe
+F:\C#\TuongTacCSDL\bin\Debug\TuongTacCSDL.pdb
+F:\C#\TuongTacCSDL\obj\Debug\TuongTacCSDL.csprojAssemblyReference.cache
+F:\C#\TuongTacCSDL\obj\Debug\TuongTacCSDL.Form1.resources
+F:\C#\TuongTacCSDL\obj\Debug\TuongTacCSDL.Properties.Resources.resources
+F:\C#\TuongTacCSDL\obj\Debug\TuongTacCSDL.csproj.GenerateResource.cache
+F:\C#\TuongTacCSDL\obj\Debug\TuongTacCSDL.csproj.CoreCompileInputs.cache
+F:\C#\TuongTacCSDL\obj\Debug\TuongTacCSDL.exe
+F:\C#\TuongTacCSDL\obj\Debug\TuongTacCSDL.pdb
